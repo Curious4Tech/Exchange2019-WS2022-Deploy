@@ -88,7 +88,8 @@ A comprehensive step-by-step guide to install Exchange Server 2019 on Windows Se
 
 2. Install .NET Framework 4.8 (if not already installed)
 
-3. Install Visual C++ Redistributable Package for Visual Studio 2012
+3. Install Visual C++ Redistributable Package for Visual Studio 2012: [Dowlod from here](https://www.microsoft.com/en-us/download/details.aspx?id=30679)
+
 
 4. Install Visual C++ Redistributable Packages for Visual Studio 2013
 
