@@ -90,15 +90,12 @@ A comprehensive step-by-step guide to install Exchange Server 2019 on Windows Se
 
 3. Install Visual C++ Redistributable Package for Visual Studio 2012: [Dowlod from here](https://www.microsoft.com/en-us/download/details.aspx?id=30679)
 
+4. Install Visual C++ Redistributable Packages for Visual Studio 2013: [Dowlod from here](https://www.microsoft.com/en-us/download/details.aspx?id=40784)
 
-4. Install Visual C++ Redistributable Packages for Visual Studio 2013
+5. Install Unified Communications Managed API 4.0 Runtime: [Dowlod from here](https://www.microsoft.com/en-us/download/details.aspx?id=34992)
 
-5. Install Unified Communications Managed API 4.0 Runtime (download from Microsoft or find in the \UCMARedist folder on the Exchange media)
+6. Install the IIS URL Rewrite Module: [Dowlod from here](https://www.iis.net/downloads/microsoft/url-rewrite)
 
-6. Install the IIS URL Rewrite Module
-
-![image](https://github.com/user-attachments/assets/67606cb3-6c64-4d80-858c-cf35a751631e)
- 
 7. Restart the server
 
 ## Step 4: Install Exchange Server 2019
